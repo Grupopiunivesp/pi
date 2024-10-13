@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "univesopi",
+  "private_key_id": "7a3400f89a704534ec852c27cddd27f8a40582a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxXAv5erESzByv\nJQTMDxQTFIfeBpQJ0TQ5R09fKJiRTw5CSXNKLz8OGjDRGnfcWiZBdB6LRs+Urpnp\nhU9AuyFeRFpTtQwO/9tLWy9ULZgQEOyj7DbCRdUUthllJ/f3O/RI2+9PT3KrpRHE\nfnpM8EumfcK8NMhfyQXQOBeO9IhiG8FarErX2d61AmFBEgAbkurU3boxQeEu2Pj7\n8LgykWYu3BbQ5oQRtV7YqWKj0RBVhsQI/UU6KLndZnLZinH3jUQze2v3+09s2H2a\nxxbuwL/1FdqgnxNyACDNYPyJIKEL2cWPas4c6a/ouGFWlZcsC+kAiTRp09uBUiqJ\n9OgEXKHPAgMBAAECggEAPGLMGu2Io49GRuWyO+34VkS7u77+oVcO0l+yqQIP7A2A\nG9aZP81VSS5mp5M88xPoiYmJKr95xrQp6CXA5ZexFUDthimSyPqZBg+uThlV+EZi\n4671t/CBy5Lyk4vns9BAbJwhXx38O2+w3Hd5mX+JKk8QQfcwr9goOAwZDU25r7kV\nE82IyI5N2ie+eibbSDiwKdGS7FyfsPsjY8Qh0uyQqWqx6xA36EfX4KjKucDLsiBU\ngrlK01A7dsNmoIYws69CdmW1cWb2ayoV/q+hnkPviLxlbT0GkmXV+4LJ/xRVIJh2\nP1PBvBrNkO+LR5v+XAw+N6V6z9//80PoqbA4Ld6uKQKBgQDjeaYPcslk8y+OQQ3i\nogqnHA2s52YswuyG4i0gMKLwit8CsgETiyhtarZgMA2+yU42f0AlNxIRg1nVy9fE\nRX0NClGWFM7+CoVIGM23QZ4CXInmaC7MRDY+e6V5pVF3Vz3RSH+d1eqfyGtFcyu/\nH2U/nzG152OHYqNBIQy1o8/UKQKBgQDHmZlC+6l8EzpsOiyKYsazhO90xNLu4tp4\nHQ/u6fdGhBWL4JjS846lHh0B4j8bEF707lRXvA8sk6IYR15Ty6jmigJ9uQpByn4y\nMF25Njl3BjYCQYgI6SRHvEoXIeWLS2tLNxSSDnabv5J3OlWldBy7UEj7QXnNLEBk\n9ccvYy9FNwKBgQC5oEOKx7jg0DI2e4/BKUpYI+Rk/E+8pzQsvdTlN8s/T5O8t1V5\nhU1wPGynAY+16MASaLUHqXDtKarddIKWf74ULh91wXVIiX1J4DO/H6S5eJpvkwTd\nW6yIQI5APk/Ee0TOy8KYIkBcM0iWW+2PASe2S0pdjn0BtdRTCY09jHfEQQKBgH4+\nVSR7nh/+3WXUiZVhkkG7I+UcFDnJu9par1gyHRc5tZMKFD7gk2k2Gay2V6mbeiO6\nlhgDtyk/mzd19GBVoNdnlNnF7oncNGM0GiNp+4CfqgtVPWA9bZf9rHLjGpc2tX8W\nMGmMwlISIeZNPBxwyzdiOTbJm+s8QOJaXYhIWH6TAoGAX9exsQU8r49Y3MxhY68i\nHfUXJP3+KAxaMPWH2Y0AAwJnQzVVr/2W3afMbKt4FH+gsSZLMYz8TAm/N+TkGmTZ\n5ibpJh0y65nm+ciLuiRp0wCf3hoUj/UlxUUZQZYMjdqiQH6vMc0bRCi+5FT7l5dI\nSn10aSoUG1wCRpS+Gners/k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "univesppi@univesopi.iam.gserviceaccount.com",
+  "client_id": "109387271420491434064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/univesppi%40univesopi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
